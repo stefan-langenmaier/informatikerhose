@@ -1,0 +1,63 @@
+h1. Informatikerhose
+
+h2. Idee
+
+Eine zeitgemäße Hose für die Zunft der Informatiker. Für mich sollte das eine solide, durchdachte, angenehme, ökologisch-sinnvolle Hose sein. Eine Hose die ihren eigenen Charakter hat, aber auch in einem geschäftlichen Umfeld getragen werden kann. Mein Vorschlag für eine solche Art von "Zunft"-Hose für die Informatiker ist im folgenden dargestellt.
+
+Die Hose soll eine Idee und Anregung für Verbesserungen und Änderungen sein. Schnittmuster für die Hose sind leider (noch) nicht vorhanden. Auf Softwareentwicklung übertragen wären das vermutlich die Spezifikationen. Klingt sehr nach einem _richtigen_ Softwareprojekt, wenn die Spezifikation zur Implementierung fehlt. Um die Implementierung der Öffentlichkeit zugänglich zu machen sind im folgenden die Features (Requirements) der Hose sowie ihre Bestandteile. Ein geübter Schneider sollte daraus auch ein Hose umsetzen können. Falls jemand das Projekt _forkt_ und Schnittmuster anlegen würde, wäre das natürlich ein Gewinn.
+
+h2. Infos
+
+* 3m Oberstoff: Hanf-Twill (100% Hanf) (von http://www.naturstoff.de, 32,70 €/ lfm)
+
+* 2x Metall-Reißverschluss von Karstadt je 2,90€
+
+* 3m blaues Nahtband 20mm breit (von http://www.fadenversand.de)
+ 
+* Nähgarn, Vlies, Druckknopf etc.
+
+h2. Features
+
+h3. Tragekomfort
+
+* Robustes Material
+* Leichtes luftige Material (auch für Sommer geeignet)
+* Weit geschnitten
+* Tiefe Taschen
+* Innentaschen für
+** Handy
+** Stifte
+* Schlaufen zum befestigen von Schlüsseln
+* USB-Stick Fach am Bund
+* Funky Gürtelschlaufen
+
+h3. Style
+
+* Anlehnung an Tron mit den bunten Streifen
+* Anlehnung an andere klassische Zunfthosen mit den Reisverschlüssen
+
+
+h2. Bilder
+
+h2. Implementierung
+
+Die Hose wurde umgesetzt von "Veronika Heppner":http://www.veronikaheppner.com/
+
+Dort können auch gern weitere Modelle in andere Größen und mit anderen Features bestellt und entworfen werden. Preise bitte individuell erfragen.
+
+Ein herzliches Dankeschön von mir für das Projekt.
+
+h2. Uniform
+
+Eine wirklich gute Kritik an der Hose habe ich von einem anderen Informatiker erhalten. Wenn ich es in eigenen Worte fassen darf war es. "Informatiker brauchen keine Kluft, da sie eine solche _Uniform_ nur gleich schalten würde und das gerade was den Informatikern wiederspricht, da sie in so unterschiedlichen Gebieten arbeiten und es auch von den unterschiedlichsten Menschen betrieben wird." Dieser Gedanke kam mir zunächst natürlich nicht in den Sinn und war auch nie geplant. Allerdings ist für mich hier viel Wahrheit enthalten. Eine Uniform kann natürlich leicht ein Gruppendenken  erzeugen und somit dazu dienen sich von anderen abzusondern und zu isolieren. Diesem soll natürlich durch diese offene Lösung entgegengewirkt werden. Jedem ist freigestellt seine eigene Umsetzung und Interpretion dieser Hose zu erstellen und ich würde mich sehr über Verbesserungssorschläge freuen.
+In erster Linie existiert die Hose aber weil ich Spass hatte mir darüber Gedanken zu machen und es einfach lustig fand so etwas Altes auch für ein aktuelles Handwerk zu haben und weil _open-source_ eigentlich immer mit Software oder Technik verbunden ist und selten auf Hardware im Bereich _Mode_.
+
+h2. Verbesserungsvorschläge
+
+Bitte unter den Tickets deine Ideen eintragen.
+
+* Knöpfe an der Hosenaußenseite, um sie beim hochkrempeln zu befestigen, damit man sie in eine kurze Hose umwandeln kann.
+
+h2. Lizenz
+
+Stefan Langenmaier, "CC-BY-SA":http://creativecommons.org/licenses/by-sa/2.0/de/deed.de
