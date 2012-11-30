@@ -60,4 +60,10 @@ Bitte unter den Tickets deine Ideen eintragen.
 
 h2. Lizenz
 
-Stefan Langenmaier, "CC-BY-SA":http://creativecommons.org/licenses/by-sa/2.0/de/deed.de
+Stefan Langenmaier, "CC-BY-SA":http://creativecommons.org/licenses/by-sa/3.0/de/deed.de
+
+
+h2. Referenzen
+
+* Es gibt ein Tartan (Muster den Stoff eines Schottenrocks) für 
+"Debian":http://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5936
